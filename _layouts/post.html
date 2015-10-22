@@ -11,5 +11,5 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-
+<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 </div>
