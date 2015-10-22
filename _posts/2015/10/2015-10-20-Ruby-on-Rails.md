@@ -1,6 +1,8 @@
 ---
 layout: post
 title: З  чого почати вивчення Ruby on Rails
+date:   2015-10-20 12:35:25
+categories: Ruby on Rails
 published: true
 ---
 
