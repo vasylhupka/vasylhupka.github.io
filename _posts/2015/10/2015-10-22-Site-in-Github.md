@@ -2,7 +2,6 @@
 published: true
 layout: post
 title: Сайт на Github
-date: {}
 categories: Github
 ---
 
