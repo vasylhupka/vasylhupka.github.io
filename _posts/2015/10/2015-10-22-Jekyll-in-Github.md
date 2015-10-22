@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Блог на Github
 date: 2015-10-22T08:33:25.000Z
 categories: Github
 ---
