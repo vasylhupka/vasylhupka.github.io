@@ -3,8 +3,9 @@ layout: post
 title: З  чого почати вивчення Ruby on Rails
 date: {}
 categories: Ruby on Rails
-published: false
+published: true
 ---
+
 
 
 ![3-30eefa91e17c2530488f3ac481432c441de6498f501e2ce42dc35a0bacf7a375[1].jpg]({{site.baseurl}}/_posts/2015/10/3-30eefa91e17c2530488f3ac481432c441de6498f501e2ce42dc35a0bacf7a375[1].jpg)
