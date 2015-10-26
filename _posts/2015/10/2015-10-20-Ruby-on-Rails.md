@@ -14,5 +14,3 @@ published: true
 2. [Мир Rails. Правильное обучение разработке веб-приложений на Ruby On Rails](http://romansnitko.com/rails_book_example.html)[.](http://scanlibs.com/obuchenie-razrabotke-veb-prilozheniy-na-ruby-on-rails/)
 3. [Основы веб-разработки](http://codenamecrud.ru)
 - [Codecademy.com](https://www.codecademy.com/tracks/ruby) (Ruby)
-
-
