@@ -1,7 +1,6 @@
 ---
 layout: post
 title: З  чого почати вивчення Ruby on Rails
-date: {}
 categories: Ruby on Rails
 published: true
 ---
